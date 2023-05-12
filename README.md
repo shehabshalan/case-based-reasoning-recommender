@@ -72,7 +72,8 @@ Test the project by going to http://localhost:8000/ in your browser.
 
 ## Built With
 
-- [FastAPI](https://fastapi.tiangolo.com/) - The library used
+- [FastAPI](https://fastapi.tiangolo.com/) - backend
+- [React](https://reactjs.org/) - frontend
 
 ## Author
 
